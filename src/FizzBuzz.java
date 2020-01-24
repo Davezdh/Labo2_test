@@ -3,8 +3,8 @@ public class FizzBuzz {
 
         public static void main(String[] args) {
             String u = "fizz";
-
-            for ( int i =0; i<= 100; i++){
+                                   
+            for ( int i =0; i<= 200; i++){
                 if(i % 3 == 0){
                     System.out.print("fizz");
                 }
